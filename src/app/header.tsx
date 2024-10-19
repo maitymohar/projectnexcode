@@ -103,9 +103,9 @@ export function Header() {
           className="flex gap-3 items-center text-2xl font-bold text-gray-800 dark:text-white hover:text-blue-500 transition-all duration-300"
         >
           <Image
-            src="/icon.png"
-            width="50"
-            height="50"
+            src="/bigicon.png"
+            width="70"
+            height="70"
             alt="the application icon of a magnifying glass"
             className="transition-transform duration-300 hover:rotate-12"
           />

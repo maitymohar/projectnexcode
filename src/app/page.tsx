@@ -22,9 +22,9 @@ export default function LandingPage() {
     <div className="text-center">
       <Image
         className="inline-block transition-transform duration-300 hover:rotate-6"
-        src="/icon.png"
-        width="200"
-        height="200"
+        src="/bigicon.png"
+        width="300"
+        height="300"
         alt="dev finder logo"
       />
       <h1 className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-6xl">
